@@ -5,7 +5,7 @@
     "keywords": ["payment", "line", "linepay", "laravel"],
     "require": {
         "php": "^7.2",
-        "laravel/framework": "^6.0",
+        "laravel/framework": "^6.0|^7.0",
         "guzzlehttp/guzzle": "^6.2"
     },
     "license": "MIT",
